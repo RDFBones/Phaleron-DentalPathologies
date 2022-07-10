@@ -1,0 +1,8 @@
+## Exclude results from robot script
+
+results/*
+
+## Exclude temporary files
+
+.~*
+*~
