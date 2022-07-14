@@ -13,3 +13,6 @@
 [submodule "BABAO"]
 	path = BABAO
 	url = git@github.com:RDFBones/BABAO.git
+[submodule "DentalPathology"]
+	path = DentalPathology
+	url = git@github.com:RDFBones/DentalPathology.git
